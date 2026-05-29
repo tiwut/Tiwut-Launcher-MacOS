@@ -1,20 +1,14 @@
 [
   {
     "repo": "tiwut/MacOS-AirBridge-Pro",
-    "description": "High-performance, low-latency Wi-Fi repeater and bridge tool designed natively for macOS.",
-    "buildSystem": "cmake",
+    "description": "AirBridge Pro is a native, high-performance, ultra-lightweight macOS desktop application written in Swift and SwiftUI.",
+    "buildSystem": "none",
     "cloneUrl": "https://github.com/tiwut/MacOS-AirBridge-Pro.git",
     "releases": [
       {
-        "version": "v1.2.0",
-        "name": "Tiwut-AirBridge-Pro-v1.2.0.dmg",
-        "url": "https://github.com/tiwut/MacOS-AirBridge-Pro/releases/download/v1.2.0/Tiwut-AirBridge-Pro.dmg",
-        "size": 3221504
-      },
-      {
-        "version": "v1.1.0",
-        "name": "Tiwut-AirBridge-Pro-v1.1.0.dmg",
-        "url": "https://github.com/tiwut/MacOS-AirBridge-Pro/releases/download/v1.1.0/Tiwut-AirBridge-Pro.dmg",
+        "version": "v1.1.1",
+        "name": "Tiwut-AirBridge-Pro.dmg",
+        "url": "https://github.com/tiwut/MacOS-AirBridge-Pro/releases/download/v1.1.1/Tiwut-AirBridge-Pro.dmg",
         "size": 3070000
       }
     ]
