@@ -1,1 +1,29 @@
-
+[
+  {
+    "repo": "tiwut/MacOS-AirBridge-Pro",
+    "description": "High-performance, low-latency Wi-Fi repeater and bridge tool designed natively for macOS.",
+    "buildSystem": "cmake",
+    "cloneUrl": "https://github.com/tiwut/MacOS-AirBridge-Pro.git",
+    "releases": [
+      {
+        "version": "v1.2.0",
+        "name": "Tiwut-AirBridge-Pro-v1.2.0.dmg",
+        "url": "https://github.com/tiwut/MacOS-AirBridge-Pro/releases/download/v1.2.0/Tiwut-AirBridge-Pro.dmg",
+        "size": 3221504
+      },
+      {
+        "version": "v1.1.0",
+        "name": "Tiwut-AirBridge-Pro-v1.1.0.dmg",
+        "url": "https://github.com/tiwut/MacOS-AirBridge-Pro/releases/download/v1.1.0/Tiwut-AirBridge-Pro.dmg",
+        "size": 3070000
+      }
+    ]
+  },
+  {
+    "repo": "tiwut/Tiwut-File-Encrypter",
+    "description": "Native macOS drag-and-drop secure file encryption utility utilizing hardware-accelerated AES-GCM.",
+    "buildSystem": "makefile",
+    "cloneUrl": "https://github.com/tiwut/Tiwut-File-Encrypter.git",
+    "releases": []
+  }
+]
