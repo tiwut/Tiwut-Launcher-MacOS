@@ -33,5 +33,61 @@
     "buildSystem": "makefile",
     "cloneUrl": "https://github.com/tiwut/Web-Widgets-for-macOS.git",
     "releases": []
+  },
+  {
+    "repo": "tiwut/Tiwut-CLI",
+    "description": "... lightweight, single-window terminal desktop environment and interactive widget dashboard written in native C++ using Ncurses.",
+    "buildSystem": "cmake",
+    "cloneUrl": "https://github.com/tiwut/Tiwut-CLI.git",
+    "releases": []
+  },
+  {
+    "repo": "Nexus-Titan/Nexus-the-programming-language",
+    "description": "Nexus is a procedural, dynamically typed programming language built on a high-performance C++ execution engine. ",
+    "buildSystem": "cmake",
+    "cloneUrl": "https://github.com/Nexus-Titan/Nexus-the-programming-language.git",
+    "releases": []
+  },
+  {
+    "repo": "tiwut/Tiwut-Terminal",
+    "description": "Tiwut Terminal is an ultra-fast, cross-platform command-line emulator built natively in C++ using the Qt 6 framework. It simulates a fully functional OS environment securely nested within a dedicated local path.",
+    "buildSystem": "cmake",
+    "cloneUrl": "https://github.com/tiwut/Tiwut-Terminal.git",
+    "releases": []
+  },
+  {
+    "repo": "tiwut/Notepad",
+    "description": "CodePad is a high-performance, cross-platform code and text editor built with C++ and the Qt framework.",
+    "buildSystem": "cmake",
+    "cloneUrl": "https://github.com/tiwut/Notepad.git",
+    "releases": []
+  },
+  {
+    "repo": "tiwut/Docker-Auto-Updater",
+    "description": "A lightweight, blazing-fast C++ Qt application that allows you to manage, rebuild, and securely update your Docker Hub images with zero CLI usage.",
+    "buildSystem": "cmake",
+    "cloneUrl": "https://github.com/tiwut/Docker-Auto-Updater.git",
+    "releases": []
+  },
+  {
+    "repo": "tiwut/LAN-File-Shuttle",
+    "description": "...allows you to easily send and receive files over a local area network.",
+    "buildSystem": "cmake",
+    "cloneUrl": "https://github.com/tiwut/LAN-File-Shuttle.git",
+    "releases": []
+  },
+  {
+    "repo": "tiwut/CPP-Studio",
+    "description": "Cpp Studio is a lightweight, native C++ IDE for Linux built entirely with Qt6 and C++.",
+    "buildSystem": "cmake",
+    "cloneUrl": "https://github.com/tiwut/CPP-Studio.git",
+    "releases": []
+  },
+  {
+    "repo": "tiwut/Ollama-ROCm-Manager---for-Docker-Compose",
+    "description": "A C++ manager with a user interface and Docker backend",
+    "buildSystem": "makefile",
+    "cloneUrl": "https://github.com/tiwut/Ollama-ROCm-Manager---for-Docker-Compose.git",
+    "releases": []
   }
 ]
