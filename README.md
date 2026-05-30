@@ -2,7 +2,7 @@
 
 A premium, frosted **Liquid Glass** native macOS launcher designed exclusively for compiling, installing, running, and managing Tiwut applications. Built with a 100% native Apple Swift backend integrated with a responsive WebKit user interface.
 
-<img width="1092" height="836" alt="Screenshot 2026-05-30 at 10 59 38" src="https://github.com/user-attachments/assets/24648878-427c-4a5f-b025-ac5d77bce36c" />
+<img width="1045" height="780" alt="Screenshot 2026-05-30 at 11 01 21" src="https://github.com/user-attachments/assets/425904c8-a6b1-415a-aef2-de559cd9ee94" />
 
 ---
 
