@@ -60,6 +60,13 @@
     "description": "An advanced, high-performance, cross-platform system task manager and interactive hardware diagnostics suite engineered in modern C++17 and Qt6.",
     "buildSystem": "cmake",
     "cloneUrl": "https://github.com/tiwut/Quantum-Task.git",
-    "releases": []
+    "releases": [
+      {
+        "version": "v1.1.1",
+        "name": "QuantumTask-M1-or-newer.dmg",
+        "url": "https://github.com/tiwut/Quantum-Task/releases/download/v1.1.1/QuantumTask-M1-or-newer.dmg",
+        "size": 2940000
+      }
+    ]
   }
 ]
