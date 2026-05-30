@@ -35,13 +35,6 @@
     "releases": []
   },
   {
-    "repo": "tiwut/Tiwut-CLI",
-    "description": "... lightweight, single-window terminal desktop environment and interactive widget dashboard written in native C++ using Ncurses.",
-    "buildSystem": "cmake",
-    "cloneUrl": "https://github.com/tiwut/Tiwut-CLI.git",
-    "releases": []
-  },
-  {
     "repo": "Nexus-Titan/Nexus-the-programming-language",
     "description": "Nexus is a procedural, dynamically typed programming language built on a high-performance C++ execution engine. ",
     "buildSystem": "cmake",
@@ -67,13 +60,6 @@
     "description": "A lightweight, blazing-fast C++ Qt application that allows you to manage, rebuild, and securely update your Docker Hub images with zero CLI usage.",
     "buildSystem": "cmake",
     "cloneUrl": "https://github.com/tiwut/Docker-Auto-Updater.git",
-    "releases": []
-  },
-  {
-    "repo": "tiwut/LAN-File-Shuttle",
-    "description": "...allows you to easily send and receive files over a local area network.",
-    "buildSystem": "cmake",
-    "cloneUrl": "https://github.com/tiwut/LAN-File-Shuttle.git",
     "releases": []
   },
   {
