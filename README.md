@@ -52,31 +52,5 @@ To run the launcher:
 
 ---
 
-## 🍺 Homebrew Integration
-
-Tiwut Launcher includes a native Homebrew package formula `tiwut-launcher.rb` in the root folder.
-
-### Local Tap Install
-
-To install the launcher via Homebrew locally:
-```bash
-brew install --build-from-source ./tiwut-launcher.rb
-```
-
----
-
-## Project Directory Structure
-
-```plaintext
-├── CMakeLists.txt         # Root build configuration
-├── tiwut-launcher.rb      # Homebrew Package formula
-├── build/                 # Compiler targets output
-└── src/
-    ├── main.swift         # Native Cocoa Swift controller & fail-safes
-    └── index.html         # Liquid Glass WebKit frontend panel layout
-```
-
----
-
 ## License
 This project is licensed under the MIT License.
