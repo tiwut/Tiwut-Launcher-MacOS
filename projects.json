@@ -54,12 +54,5 @@
     "buildSystem": "cmake",
     "cloneUrl": "https://github.com/tiwut/Docker-Auto-Updater.git",
     "releases": []
-  },
-  {
-    "repo": "tiwut/Ollama-ROCm-Manager---for-Docker-Compose",
-    "description": "A C++ manager with a user interface and Docker backend",
-    "buildSystem": "makefile",
-    "cloneUrl": "https://github.com/tiwut/Ollama-ROCm-Manager---for-Docker-Compose.git",
-    "releases": []
   }
 ]
