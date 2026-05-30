@@ -15,7 +15,7 @@
   },
   {
     "repo": "tiwut/Mac-Top-Bar-Dock",
-    "description": "Native macOS drag-and-drop secure file encryption utility utilizing hardware-accelerated AES-GCM.",
+    "description": "A lightning-fast, 100% native macOS menu bar app launcher inspired by -DockPops.- It lives in your top menu bar and provides a beautiful, cascading -Liquid Glass- interface to quickly access your favorite apps, files, and folders.",
     "buildSystem": "none",
     "cloneUrl": "https://github.com/tiwut/Mac-Top-Bar-Dock.git",
     "releases": [
@@ -26,5 +26,12 @@
         "size": 100034150
       }
     ]
+  },
+  {
+    "repo": "tiwut/Web-Widgets-for-macOS",
+    "description": "A high-performance native macOS application written in Objective-C++ (C++17 and Cocoa) that pins interactive, glassmorphic web-based widgets directly to your desktop background wallpaper, functioning exactly like iOS homescreen widgets.",
+    "buildSystem": "makefile",
+    "cloneUrl": "https://github.com/tiwut/Web-Widgets-for-macOS.git",
+    "releases": []
   }
 ]
