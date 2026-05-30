@@ -35,13 +35,6 @@
     "releases": []
   },
   {
-    "repo": "Nexus-Titan/Nexus-the-programming-language",
-    "description": "Nexus is a procedural, dynamically typed programming language built on a high-performance C++ execution engine. ",
-    "buildSystem": "cmake",
-    "cloneUrl": "https://github.com/Nexus-Titan/Nexus-the-programming-language.git",
-    "releases": []
-  },
-  {
     "repo": "tiwut/Tiwut-Terminal",
     "description": "Tiwut Terminal is an ultra-fast, cross-platform command-line emulator built natively in C++ using the Qt 6 framework. It simulates a fully functional OS environment securely nested within a dedicated local path.",
     "buildSystem": "cmake",
