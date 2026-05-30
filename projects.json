@@ -9,15 +9,22 @@
         "version": "v1.1.1",
         "name": "Tiwut-AirBridge-Pro.dmg",
         "url": "https://github.com/tiwut/MacOS-AirBridge-Pro/releases/download/v1.1.1/Tiwut-AirBridge-Pro.dmg",
-        "size": 3070000
+        "size": 3219128
       }
     ]
   },
   {
-    "repo": "tiwut/Tiwut-File-Encrypter",
+    "repo": "tiwut/Mac-Top-Bar-Dock",
     "description": "Native macOS drag-and-drop secure file encryption utility utilizing hardware-accelerated AES-GCM.",
-    "buildSystem": "makefile",
-    "cloneUrl": "https://github.com/tiwut/Tiwut-File-Encrypter.git",
-    "releases": []
+    "buildSystem": "none",
+    "cloneUrl": "https://github.com/tiwut/Mac-Top-Bar-Dock.git",
+    "releases": [
+      {
+        "version": "v1.1.1",
+        "name": "Tab.Bar.Dock.dmg",
+        "url": "https://github.com/tiwut/Mac-Top-Bar-Dock/releases/download/v1.1.1/Tab.Bar.Dock.dmg",
+        "size": 100034150
+      }
+    ]
   }
 ]
