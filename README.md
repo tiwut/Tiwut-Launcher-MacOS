@@ -1,6 +1,8 @@
-# Tiwut Launcher
+# Tiwut Launcher (MacOS Edition)
 
 A premium, frosted **Liquid Glass** native macOS launcher designed exclusively for compiling, installing, running, and managing Tiwut applications. Built with a 100% native Apple Swift backend integrated with a responsive WebKit user interface.
+
+<img width="1092" height="836" alt="Screenshot 2026-05-30 at 10 59 38" src="https://github.com/user-attachments/assets/24648878-427c-4a5f-b025-ac5d77bce36c" />
 
 ---
 
