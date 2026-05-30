@@ -54,5 +54,12 @@
     "buildSystem": "cmake",
     "cloneUrl": "https://github.com/tiwut/Docker-Auto-Updater.git",
     "releases": []
+  },
+  {
+    "repo": "tiwut/Quantum-Task",
+    "description": "An advanced, high-performance, cross-platform system task manager and interactive hardware diagnostics suite engineered in modern C++17 and Qt6.",
+    "buildSystem": "cmake",
+    "cloneUrl": "https://github.com/tiwut/Quantum-Task.git",
+    "releases": []
   }
 ]
